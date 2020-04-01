@@ -146,4 +146,7 @@ static
 .vscode
 
 # Geckodriver Log
-*.log
+geckodriver.log
+
+# Folder screenshot
+screenshot/*.png
